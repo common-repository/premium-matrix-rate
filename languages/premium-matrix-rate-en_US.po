@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Premium Matrix Rate 1.0.0\n"
+"POT-Creation-Date: 2016-05-27 12:43+0530\n"
+"PO-Revision-Date: 2016-05-27 12:43+0530\n"
+"Last-Translator: cedcommerce <dineshkashera@gmail.com>\n"
+"Language-Team: CedCommerce <plugins@cedcommerce.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /opt/lampp/htdocs/wordpress/wp-content/plugins/premium-"
+"matrix-rate/\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: premium-matrix-rate.php:129 includes/class-cedPremiumRatePage.php:23
+msgid "Premium Matrix Rates"
+msgstr ""
+
+#: premium-matrix-rate.php:130 includes/cedpremiumratepage_listing.php:11
+#: includes/cedAddNewRates.php:116 includes/class-cedPremiumRatePage.php:32
+#: includes/cedImportRates.php:138
+msgid "Import Rates"
+msgstr ""
+
+#: premium-matrix-rate.php:139 includes/class-cedPremiumRatePage.php:42
+#: includes/class-cedPremiumRatePage.php:53
+#: includes/class-cedPremiumRatePage.php:65
+msgid "You don't have sufficient permissions to access this page."
+msgstr ""
+
+#: premium-matrix-rate.php:168
+msgid ""
+"Woocommerce is not activated, Please activate Woocommerce first to install "
+"Premium Matrix ."
+msgstr ""
+
+#: class-premium-matrix-rate.php:98
+msgid "Free Shipping :"
+msgstr ""
+
+#: class-premium-matrix-rate.php:101
+msgid "If set yes then,shipping charge will not included for this product"
+msgstr ""
+
+#: class-premium-matrix-rate.php:104
+#: includes/class-cedPremiumAdmin-Settings.php:94
+#: includes/class-cedPremiumAdmin-Settings.php:106
+msgid "No"
+msgstr ""
+
+#: class-premium-matrix-rate.php:105
+#: includes/class-cedPremiumAdmin-Settings.php:95
+#: includes/class-cedPremiumAdmin-Settings.php:107
+msgid "Yes"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:10 includes/cedAddNewRates.php:115
+#: includes/class-cedPremiumRatePage.php:31 includes/cedImportRates.php:137
+msgid "List Rates"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:66
+msgid "Add Rates"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:77
+#: includes/cedpremiumratepage_listing.php:222
+msgid "Select All"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:81
+#: includes/cedpremiumratepage_listing.php:226
+msgid "ID"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:85
+#: includes/cedpremiumratepage_listing.php:230 includes/cedAddNewRates.php:154
+msgid "Country"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:89
+#: includes/cedpremiumratepage_listing.php:234 includes/cedAddNewRates.php:159
+msgid "Region/States"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:93
+#: includes/cedpremiumratepage_listing.php:238 includes/cedAddNewRates.php:164
+msgid "City"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:97
+#: includes/cedpremiumratepage_listing.php:242 includes/cedAddNewRates.php:169
+msgid "Zipcode"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:101
+#: includes/cedpremiumratepage_listing.php:246 includes/cedAddNewRates.php:174
+msgid "Weight From"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:105
+#: includes/cedpremiumratepage_listing.php:250 includes/cedAddNewRates.php:179
+msgid "Weight To"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:109
+#: includes/cedpremiumratepage_listing.php:254 includes/cedAddNewRates.php:184
+msgid "Order Subtotal From"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:114
+#: includes/cedpremiumratepage_listing.php:259 includes/cedAddNewRates.php:189
+msgid "Order Subtotal To"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:119
+#: includes/cedpremiumratepage_listing.php:264 includes/cedAddNewRates.php:194
+msgid "Quantity From"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:123
+#: includes/cedpremiumratepage_listing.php:268 includes/cedAddNewRates.php:199
+msgid "Quatity To"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:127
+#: includes/cedpremiumratepage_listing.php:272 includes/cedAddNewRates.php:204
+msgid "Shipping Price"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:131
+#: includes/cedpremiumratepage_listing.php:276
+msgid "Shipping Method"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:135
+#: includes/cedpremiumratepage_listing.php:280
+msgid "Edit"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:202
+msgid "Edit Rate"
+msgstr ""
+
+#: includes/cedpremiumratepage_listing.php:210
+msgid "No Premium Matrix Rate Created"
+msgstr ""
+
+#: includes/cedAddNewRates.php:22
+msgid "Fill all the Feilds Values"
+msgstr ""
+
+#: includes/cedAddNewRates.php:45
+msgid "Rates Updated successfully"
+msgstr ""
+
+#: includes/cedAddNewRates.php:76
+msgid "Rates Added Successfully"
+msgstr ""
+
+#: includes/cedAddNewRates.php:137 includes/class-cedPremiumRatePage.php:33
+msgid "New Rates"
+msgstr ""
+
+#: includes/cedAddNewRates.php:139
+msgid "You Can Create and edit Matrix Rates Here"
+msgstr ""
+
+#: includes/cedAddNewRates.php:149
+msgid "Matrix Rates settings"
+msgstr ""
+
+#: includes/cedAddNewRates.php:209
+msgid "Shipping Method "
+msgstr ""
+
+#: includes/cedAddNewRates.php:224
+msgid "Use"
+msgstr ""
+
+#: includes/cedAddNewRates.php:228
+msgid "You can create new rates and All Values Should be Filled"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:24
+msgid "Premium Matrix Rate"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:25
+msgid "A shipping calculator for Premium Matrix rate"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:65
+msgid "Enable"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:67
+msgid "Enable this shipping method"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:71
+msgid "Title"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:72
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:78
+msgid "Rate Calculation Condition"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:82
+msgid "Weight and Destination"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:83
+msgid "Quantity and Destination"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:84
+msgid "Order and Destination"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:88
+msgid "Use Virtual Product For Calculation"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:92
+msgid "If set to yes then calculate shipping for virtual product"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:100
+msgid "Skip Free shipping Product for calculation"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:103
+msgid "If set to yes then calculate shipping for free Shipping product"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:112
+msgid "Minimum order amount for free shipping"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:115
+msgid "Minimum order Amount For Free shipping"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:119
+msgid "Maximum Weight For Free Shipping"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:122
+msgid "Maximum Allowed Weight For Free shipping"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:126
+#: includes/class-cedPremiumAdmin-Settings.php:130
+msgid "Export"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:128
+msgid "Exports the CSV Format For Premium Matrix Rate "
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:137
+#: includes/class-cedPremiumAdmin-Settings.php:141
+msgid "Import"
+msgstr ""
+
+#: includes/class-cedPremiumAdmin-Settings.php:139
+msgid "Import the CSV For Premium Matrix Rate."
+msgstr ""
+
+#: includes/cedImportRates.php:21
+msgid "Error While Importing Please Select CSV File Only"
+msgstr ""
+
+#: includes/cedImportRates.php:127
+msgid "File Imported Successfully"
+msgstr ""
+
+#: includes/cedImportRates.php:141
+msgid "Import Premium Matrix Rates "
+msgstr ""
+
+#: includes/cedImportRates.php:161
+msgid "Setup Premium Matrix Configuration Settings"
+msgstr ""
+
+#: Licence-doc/license.php:15
+msgid "Click and Go License Panel"
+msgstr ""
+
+#: Licence-doc/license.php:26
+msgid "Your License is valid. You may proceed now."
+msgstr ""
+
+#: Licence-doc/license.php:36 Licence-doc/license.php:59
+msgid "Enter License Key"
+msgstr ""

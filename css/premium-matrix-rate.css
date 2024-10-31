@@ -1,0 +1,19 @@
+.pmr_list{
+	width:20%;
+}
+.pmr_heading_clr{
+	color:#0095DD;
+	font-size:12px;
+}
+.pmr_text_label{
+	display:inline-block;
+	max-width: 20%;
+	width: 100%;
+}
+.pmr_add_input{
+	width:65%;
+	
+}
+.pmr_required{
+	color:red;
+}

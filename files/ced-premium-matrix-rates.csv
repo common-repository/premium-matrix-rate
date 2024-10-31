@@ -1,0 +1,2 @@
+Country,Region/State,City,Zip/Postal,Weight From,Weight To,Order Subtotal From,Order Subtotal To,Quantity From ,Quantity To,Shipping Price,Shipping Method
+US,NY,New York,11234,10,400,100,4000,1,30,400,Premium Matrix Rate
